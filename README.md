@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **QinRuixin/QinRuixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi 👋 I am QinRuixin, 
+### an undergraduate from NJU
+### majoring in Software Engineering.
+
+Living in Nanjing currently
+
+🌱 I’m currently learning umm.. many things
+
+![QinRuixin's github stats](https://github-readme-stats.vercel.app/api?username=QinRuixin)

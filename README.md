@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi 👋 I am ✨QinRuixin✨, 
-### an undergraduate from NJU
-### majoring in Software Engineering.
-
-![QinRuixin's github stats](https://github-readme-stats.vercel.app/api?username=QinRuixin)
+### Hi 👋 I am ✨QinRuixin✨
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)

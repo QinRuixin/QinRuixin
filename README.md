@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi 👋 I am ✨QinRuixin✨
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2022 18:50:09 UTC
+ Last Updated on 12/03/2022 18:43:02 UTC
 <!--END_SECTION:waka-->

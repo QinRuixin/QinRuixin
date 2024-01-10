@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 ### Hi 👋 I am ✨QinRuixin✨
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 335.3 kB Used in GitHub's Storage 
+> 📦 335.9 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 5 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -73,15 +73,15 @@ VS Code                  23 hrs 25 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
-C++                      15 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     17 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      16 repos            ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 10/01/2024 08:52:37 UTC
+ Last Updated on 10/01/2024 18:38:18 UTC
 <!--END_SECTION:waka-->
